@@ -1,8 +1,15 @@
-# Task Description:
-  The Landing Page was created by using html and css from the figma file.
-  This is a Travel Agency Landing page. It also interactive and responsive.
+# 🌍✈ Travel Agency Landing Page
 
-# Languages used:
-  * HTML
-  * CSS
+## 📌 Task Description
+This *Landing Page* was created using *HTML and CSS* based on a **Figma Design**.
+It is **fully responsive** and includes **interactive hover effects**.
+
+## ✨ Features
+✅ Fully Responsive Design
+✅ Smooth Hover Effects
+✅ Clean and Modern UI
+
+## 💻 Technologies Used
+- *HTML5*
+- *CSS3*(Flex-box, Grid)
   
